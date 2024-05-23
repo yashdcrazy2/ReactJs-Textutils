@@ -11,7 +11,6 @@ function BasicExample() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="/About">About</Nav.Link>
             <Nav.Link
               href="https://github.com/goel-anubhav/"
               target="_blank">
